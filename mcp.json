@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    
+      "name": "Calculator",
+      "command": "python",
+      "args": ["calculator.py"],
+      "cwd": "C:\\Users\\ETRI\\.cursor\\Projects"
+  }
+}
